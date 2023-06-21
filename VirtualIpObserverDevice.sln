@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualIpObserverDevice.Api", "VirtualIpObserverDevice.Api\VirtualIpObserverDevice.Api.csproj", "{2D530C8E-E01D-442B-B338-10CCE3BB118A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualIpObserverDevice.Core", "VirtualIpObserverDevice.Core\VirtualIpObserverDevice.Core.csproj", "{80196464-AC6D-42C0-A652-5CFECD49FDBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D530C8E-E01D-442B-B338-10CCE3BB118A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D530C8E-E01D-442B-B338-10CCE3BB118A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D530C8E-E01D-442B-B338-10CCE3BB118A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D530C8E-E01D-442B-B338-10CCE3BB118A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80196464-AC6D-42C0-A652-5CFECD49FDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80196464-AC6D-42C0-A652-5CFECD49FDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80196464-AC6D-42C0-A652-5CFECD49FDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80196464-AC6D-42C0-A652-5CFECD49FDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
